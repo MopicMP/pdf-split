@@ -1,0 +1,5 @@
+[
+  "tests/test_pdf_split.py::TestSplit::test_basic",
+  "tests/test_pdf_split.py::TestSplit::test_empty",
+  "tests/test_pdf_split.py::TestSplit::test_type_error"
+]
